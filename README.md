@@ -27,5 +27,18 @@ A simple Python CLI tool to check website page load time and provide performance
 ### 1. Clone the repository
 
 ```bash
-
+https://github.com/Aditi-Rani/page-speed-checker
+```
+```bash
 cd page-speed-checker
+```
+
+### 2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+### 3. Run the script
+```bash
+python page_speed_checker.py
+```
+
